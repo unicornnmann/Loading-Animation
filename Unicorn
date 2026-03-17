@@ -61,7 +61,7 @@ do
 		local background = Instance.new("Frame")
 		background.Size = UDim2.new(1, 0, 1, 0)
 		background.BackgroundColor3 = colors.primary
-		background.BackgroundTransparency = 0.15
+		background.BackgroundTransparency = 0.1
 		background.BorderSizePixel = 0
 		background.Parent = gui
 
